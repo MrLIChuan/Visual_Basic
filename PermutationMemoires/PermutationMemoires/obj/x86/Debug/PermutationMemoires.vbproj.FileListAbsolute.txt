@@ -1,0 +1,9 @@
+C:\Users\TEMP.ETUD.002\Desktop\PermutationMemoires\PermutationMemoires\bin\Debug\PermutationMemoires.exe
+C:\Users\TEMP.ETUD.002\Desktop\PermutationMemoires\PermutationMemoires\bin\Debug\PermutationMemoires.pdb
+C:\Users\TEMP.ETUD.002\Desktop\PermutationMemoires\PermutationMemoires\bin\Debug\PermutationMemoires.xml
+C:\Users\TEMP.ETUD.002\Desktop\PermutationMemoires\PermutationMemoires\obj\x86\Debug\WindowsApplication1.frmPermutation.resources
+C:\Users\TEMP.ETUD.002\Desktop\PermutationMemoires\PermutationMemoires\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\TEMP.ETUD.002\Desktop\PermutationMemoires\PermutationMemoires\obj\x86\Debug\PermutationMemoires.vbproj.GenerateResource.Cache
+C:\Users\TEMP.ETUD.002\Desktop\PermutationMemoires\PermutationMemoires\obj\x86\Debug\PermutationMemoires.exe
+C:\Users\TEMP.ETUD.002\Desktop\PermutationMemoires\PermutationMemoires\obj\x86\Debug\PermutationMemoires.xml
+C:\Users\TEMP.ETUD.002\Desktop\PermutationMemoires\PermutationMemoires\obj\x86\Debug\PermutationMemoires.pdb
