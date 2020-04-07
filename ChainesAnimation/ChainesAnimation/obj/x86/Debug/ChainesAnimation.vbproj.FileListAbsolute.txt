@@ -1,0 +1,27 @@
+I:\Nicolas Pesso - Info - TP2\ChainesAnimation\ChainesAnimation\bin\Debug\ChainesAnimation.exe
+I:\Nicolas Pesso - Info - TP2\ChainesAnimation\ChainesAnimation\bin\Debug\ChainesAnimation.pdb
+I:\Nicolas Pesso - Info - TP2\ChainesAnimation\ChainesAnimation\bin\Debug\ChainesAnimation.xml
+I:\Nicolas Pesso - Info - TP2\ChainesAnimation\ChainesAnimation\obj\x86\Debug\WindowsApplication1.frmAnimation.resources
+I:\Nicolas Pesso - Info - TP2\ChainesAnimation\ChainesAnimation\obj\x86\Debug\WindowsApplication1.Resources.resources
+I:\Nicolas Pesso - Info - TP2\ChainesAnimation\ChainesAnimation\obj\x86\Debug\ChainesAnimation.vbproj.GenerateResource.Cache
+I:\Nicolas Pesso - Info - TP2\ChainesAnimation\ChainesAnimation\obj\x86\Debug\ChainesAnimation.exe
+I:\Nicolas Pesso - Info - TP2\ChainesAnimation\ChainesAnimation\obj\x86\Debug\ChainesAnimation.xml
+I:\Nicolas Pesso - Info - TP2\ChainesAnimation\ChainesAnimation\obj\x86\Debug\ChainesAnimation.pdb
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP2\ChainesAnimation\ChainesAnimation\obj\x86\Debug\ChainesAnimation.exe
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP2\ChainesAnimation\ChainesAnimation\obj\x86\Debug\ChainesAnimation.xml
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP2\ChainesAnimation\ChainesAnimation\obj\x86\Debug\ChainesAnimation.pdb
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP2\ChainesAnimation\ChainesAnimation\bin\Debug\ChainesAnimation.exe
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP2\ChainesAnimation\ChainesAnimation\bin\Debug\ChainesAnimation.pdb
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP2\ChainesAnimation\ChainesAnimation\bin\Debug\ChainesAnimation.xml
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP2\ChainesAnimation\ChainesAnimation\obj\x86\Debug\WindowsApplication1.frmAnimation.resources
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP2\ChainesAnimation\ChainesAnimation\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP2\ChainesAnimation\ChainesAnimation\obj\x86\Debug\ChainesAnimation.vbproj.GenerateResource.Cache
+C:\Users\TEMP.ETUD.001\Desktop\ChainesAnimation\ChainesAnimation\obj\x86\Debug\ChainesAnimation.exe
+C:\Users\TEMP.ETUD.001\Desktop\ChainesAnimation\ChainesAnimation\obj\x86\Debug\ChainesAnimation.xml
+C:\Users\TEMP.ETUD.001\Desktop\ChainesAnimation\ChainesAnimation\obj\x86\Debug\ChainesAnimation.pdb
+C:\Users\TEMP.ETUD.001\Desktop\ChainesAnimation\ChainesAnimation\bin\Debug\ChainesAnimation.exe
+C:\Users\TEMP.ETUD.001\Desktop\ChainesAnimation\ChainesAnimation\bin\Debug\ChainesAnimation.pdb
+C:\Users\TEMP.ETUD.001\Desktop\ChainesAnimation\ChainesAnimation\bin\Debug\ChainesAnimation.xml
+C:\Users\TEMP.ETUD.001\Desktop\ChainesAnimation\ChainesAnimation\obj\x86\Debug\WindowsApplication1.frmAnimation.resources
+C:\Users\TEMP.ETUD.001\Desktop\ChainesAnimation\ChainesAnimation\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\TEMP.ETUD.001\Desktop\ChainesAnimation\ChainesAnimation\obj\x86\Debug\ChainesAnimation.vbproj.GenerateResource.Cache
