@@ -1,0 +1,20 @@
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP2\FichiersSequentiels\FichiersSequentiels\bin\Debug\FichiersSequentiels.exe
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP2\FichiersSequentiels\FichiersSequentiels\bin\Debug\FichiersSequentiels.pdb
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP2\FichiersSequentiels\FichiersSequentiels\bin\Debug\FichiersSequentiels.xml
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP2\FichiersSequentiels\FichiersSequentiels\obj\x86\Debug\WindowsApplication1.frmEcriture.resources
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP2\FichiersSequentiels\FichiersSequentiels\obj\x86\Debug\WindowsApplication1.frmLecture.resources
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP2\FichiersSequentiels\FichiersSequentiels\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP2\FichiersSequentiels\FichiersSequentiels\obj\x86\Debug\FichiersSequentiels.vbproj.GenerateResource.Cache
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP2\FichiersSequentiels\FichiersSequentiels\obj\x86\Debug\FichiersSequentiels.exe
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP2\FichiersSequentiels\FichiersSequentiels\obj\x86\Debug\FichiersSequentiels.xml
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP2\FichiersSequentiels\FichiersSequentiels\obj\x86\Debug\FichiersSequentiels.pdb
+C:\Users\TEMP.ETUD.001\Desktop\FichiersSequentiels\FichiersSequentiels\obj\x86\Debug\FichiersSequentiels.exe
+C:\Users\TEMP.ETUD.001\Desktop\FichiersSequentiels\FichiersSequentiels\obj\x86\Debug\FichiersSequentiels.xml
+C:\Users\TEMP.ETUD.001\Desktop\FichiersSequentiels\FichiersSequentiels\obj\x86\Debug\FichiersSequentiels.pdb
+C:\Users\TEMP.ETUD.001\Desktop\FichiersSequentiels\FichiersSequentiels\bin\Debug\FichiersSequentiels.exe
+C:\Users\TEMP.ETUD.001\Desktop\FichiersSequentiels\FichiersSequentiels\bin\Debug\FichiersSequentiels.pdb
+C:\Users\TEMP.ETUD.001\Desktop\FichiersSequentiels\FichiersSequentiels\bin\Debug\FichiersSequentiels.xml
+C:\Users\TEMP.ETUD.001\Desktop\FichiersSequentiels\FichiersSequentiels\obj\x86\Debug\WindowsApplication1.frmEcriture.resources
+C:\Users\TEMP.ETUD.001\Desktop\FichiersSequentiels\FichiersSequentiels\obj\x86\Debug\WindowsApplication1.frmLecture.resources
+C:\Users\TEMP.ETUD.001\Desktop\FichiersSequentiels\FichiersSequentiels\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\TEMP.ETUD.001\Desktop\FichiersSequentiels\FichiersSequentiels\obj\x86\Debug\FichiersSequentiels.vbproj.GenerateResource.Cache
