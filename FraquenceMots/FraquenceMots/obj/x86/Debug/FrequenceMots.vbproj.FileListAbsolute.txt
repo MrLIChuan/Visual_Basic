@@ -1,0 +1,27 @@
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP2\FraquenceMots\FraquenceMots\bin\Debug\FraquenceMots.exe
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP2\FraquenceMots\FraquenceMots\bin\Debug\FraquenceMots.pdb
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP2\FraquenceMots\FraquenceMots\bin\Debug\FraquenceMots.xml
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP2\FraquenceMots\FraquenceMots\obj\x86\Debug\WindowsApplication1.frmFrequenceMots.resources
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP2\FraquenceMots\FraquenceMots\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP2\FraquenceMots\FraquenceMots\obj\x86\Debug\FrequenceMots.vbproj.GenerateResource.Cache
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP2\FraquenceMots\FraquenceMots\obj\x86\Debug\FraquenceMots.exe
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP2\FraquenceMots\FraquenceMots\obj\x86\Debug\FraquenceMots.xml
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP2\FraquenceMots\FraquenceMots\obj\x86\Debug\FraquenceMots.pdb
+C:\Users\TEMP.ETUD.001\Desktop\FraquenceMots\FraquenceMots\obj\x86\Debug\FraquenceMots.exe
+C:\Users\TEMP.ETUD.001\Desktop\FraquenceMots\FraquenceMots\obj\x86\Debug\FraquenceMots.xml
+C:\Users\TEMP.ETUD.001\Desktop\FraquenceMots\FraquenceMots\obj\x86\Debug\FraquenceMots.pdb
+C:\Users\TEMP.ETUD.001\Desktop\FraquenceMots\FraquenceMots\bin\Debug\FraquenceMots.exe
+C:\Users\TEMP.ETUD.001\Desktop\FraquenceMots\FraquenceMots\bin\Debug\FraquenceMots.pdb
+C:\Users\TEMP.ETUD.001\Desktop\FraquenceMots\FraquenceMots\bin\Debug\FraquenceMots.xml
+C:\Users\TEMP.ETUD.001\Desktop\FraquenceMots\FraquenceMots\obj\x86\Debug\WindowsApplication1.frmFrequenceMots.resources
+C:\Users\TEMP.ETUD.001\Desktop\FraquenceMots\FraquenceMots\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\TEMP.ETUD.001\Desktop\FraquenceMots\FraquenceMots\obj\x86\Debug\FrequenceMots.vbproj.GenerateResource.Cache
+E:\IUT\Informatique\TP2\FraquenceMots\FraquenceMots\obj\x86\Debug\FraquenceMots.exe
+E:\IUT\Informatique\TP2\FraquenceMots\FraquenceMots\obj\x86\Debug\FraquenceMots.xml
+E:\IUT\Informatique\TP2\FraquenceMots\FraquenceMots\obj\x86\Debug\FraquenceMots.pdb
+E:\IUT\Informatique\TP2\FraquenceMots\FraquenceMots\bin\Debug\FraquenceMots.exe
+E:\IUT\Informatique\TP2\FraquenceMots\FraquenceMots\bin\Debug\FraquenceMots.pdb
+E:\IUT\Informatique\TP2\FraquenceMots\FraquenceMots\bin\Debug\FraquenceMots.xml
+E:\IUT\Informatique\TP2\FraquenceMots\FraquenceMots\obj\x86\Debug\WindowsApplication1.frmFrequenceMots.resources
+E:\IUT\Informatique\TP2\FraquenceMots\FraquenceMots\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\IUT\Informatique\TP2\FraquenceMots\FraquenceMots\obj\x86\Debug\FrequenceMots.vbproj.GenerateResource.Cache
