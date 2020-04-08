@@ -1,0 +1,42 @@
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP3\ComparaisonPrix\ComparaisonPrix\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP3\ComparaisonPrix\ComparaisonPrix\obj\x86\Debug\WindowsApplication1.frmPrix.resources
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP3\ComparaisonPrix\ComparaisonPrix\obj\x86\Debug\ComparaisonPrix.vbproj.GenerateResource.Cache
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP3\ComparaisonPrix\ComparaisonPrix\bin\Debug\ComparaisonPrix.exe
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP3\ComparaisonPrix\ComparaisonPrix\bin\Debug\ComparaisonPrix.pdb
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP3\ComparaisonPrix\ComparaisonPrix\bin\Debug\ComparaisonPrix.xml
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP3\ComparaisonPrix\ComparaisonPrix\obj\x86\Debug\ComparaisonPrix.exe
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP3\ComparaisonPrix\ComparaisonPrix\obj\x86\Debug\ComparaisonPrix.xml
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP3\ComparaisonPrix\ComparaisonPrix\obj\x86\Debug\ComparaisonPrix.pdb
+I:\Info\Nicolas Pesso - Info - TP3\ComparaisonPrix\ComparaisonPrix\obj\x86\Debug\ComparaisonPrix.xml
+I:\Info\Nicolas Pesso - Info - TP3\ComparaisonPrix\ComparaisonPrix\obj\x86\Debug\ComparaisonPrix.pdb
+I:\Info\Nicolas Pesso - Info - TP3\ComparaisonPrix\ComparaisonPrix\bin\Debug\ComparaisonPrix.exe
+I:\Info\Nicolas Pesso - Info - TP3\ComparaisonPrix\ComparaisonPrix\bin\Debug\ComparaisonPrix.pdb
+I:\Info\Nicolas Pesso - Info - TP3\ComparaisonPrix\ComparaisonPrix\bin\Debug\ComparaisonPrix.xml
+I:\Info\Nicolas Pesso - Info - TP3\ComparaisonPrix\ComparaisonPrix\obj\x86\Debug\WindowsApplication1.Resources.resources
+I:\Info\Nicolas Pesso - Info - TP3\ComparaisonPrix\ComparaisonPrix\obj\x86\Debug\WindowsApplication1.frmPrix.resources
+I:\Info\Nicolas Pesso - Info - TP3\ComparaisonPrix\ComparaisonPrix\obj\x86\Debug\ComparaisonPrix.vbproj.GenerateResource.Cache
+I:\Info\Nicolas Pesso - Info - TP3\ComparaisonPrix\ComparaisonPrix\obj\x86\Debug\ComparaisonPrix.exe
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP3\ComparaisonPrix\ComparaisonPrix\obj\x86\Debug\ComparaisonPrix.vbprojResolveAssemblyReference.cache
+C:\Users\Lyco\Desktop\ComparaisonPrix\ComparaisonPrix\obj\x86\Debug\ComparaisonPrix.exe
+C:\Users\Lyco\Desktop\ComparaisonPrix\ComparaisonPrix\obj\x86\Debug\ComparaisonPrix.xml
+C:\Users\Lyco\Desktop\ComparaisonPrix\ComparaisonPrix\obj\x86\Debug\ComparaisonPrix.pdb
+C:\Users\Lyco\Desktop\ComparaisonPrix\ComparaisonPrix\obj\x86\Debug\ComparaisonPrix.vbprojResolveAssemblyReference.cache
+C:\Users\Lyco\Desktop\ComparaisonPrix\ComparaisonPrix\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Lyco\Desktop\ComparaisonPrix\ComparaisonPrix\obj\x86\Debug\WindowsApplication1.frmPrix.resources
+C:\Users\Lyco\Desktop\ComparaisonPrix\ComparaisonPrix\obj\x86\Debug\ComparaisonPrix.vbproj.GenerateResource.Cache
+C:\Users\Lyco\Desktop\ComparaisonPrix\ComparaisonPrix\bin\Debug\ComparaisonPrix.exe
+C:\Users\Lyco\Desktop\ComparaisonPrix\ComparaisonPrix\bin\Debug\ComparaisonPrix.pdb
+C:\Users\Lyco\Desktop\ComparaisonPrix\ComparaisonPrix\bin\Debug\ComparaisonPrix.xml
+C:\Users\Lyco\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP3\ComparaisonPrix\ComparaisonPrix\obj\x86\Debug\ComparaisonPrix.exe
+C:\Users\Lyco\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP3\ComparaisonPrix\ComparaisonPrix\obj\x86\Debug\ComparaisonPrix.xml
+C:\Users\Lyco\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP3\ComparaisonPrix\ComparaisonPrix\obj\x86\Debug\ComparaisonPrix.pdb
+E:\IUT\Informatique\Nicolas Pesso - Info - TP3\ComparaisonPrix\ComparaisonPrix\obj\x86\Debug\ComparaisonPrix.exe
+E:\IUT\Informatique\Nicolas Pesso - Info - TP3\ComparaisonPrix\ComparaisonPrix\obj\x86\Debug\ComparaisonPrix.xml
+E:\IUT\Informatique\Nicolas Pesso - Info - TP3\ComparaisonPrix\ComparaisonPrix\obj\x86\Debug\ComparaisonPrix.pdb
+E:\IUT\Informatique\Nicolas Pesso - Info - TP3\ComparaisonPrix\ComparaisonPrix\bin\Debug\ComparaisonPrix.exe
+E:\IUT\Informatique\Nicolas Pesso - Info - TP3\ComparaisonPrix\ComparaisonPrix\bin\Debug\ComparaisonPrix.pdb
+E:\IUT\Informatique\Nicolas Pesso - Info - TP3\ComparaisonPrix\ComparaisonPrix\bin\Debug\ComparaisonPrix.xml
+E:\IUT\Informatique\Nicolas Pesso - Info - TP3\ComparaisonPrix\ComparaisonPrix\obj\x86\Debug\ComparaisonPrix.vbprojResolveAssemblyReference.cache
+E:\IUT\Informatique\Nicolas Pesso - Info - TP3\ComparaisonPrix\ComparaisonPrix\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\IUT\Informatique\Nicolas Pesso - Info - TP3\ComparaisonPrix\ComparaisonPrix\obj\x86\Debug\WindowsApplication1.frmPrix.resources
+E:\IUT\Informatique\Nicolas Pesso - Info - TP3\ComparaisonPrix\ComparaisonPrix\obj\x86\Debug\ComparaisonPrix.vbproj.GenerateResource.Cache
