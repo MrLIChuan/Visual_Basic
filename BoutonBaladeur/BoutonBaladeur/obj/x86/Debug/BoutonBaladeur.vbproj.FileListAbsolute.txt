@@ -1,0 +1,9 @@
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP3\BoutonBaladeur\BoutonBaladeur\bin\Debug\BoutonBaladeur.exe
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP3\BoutonBaladeur\BoutonBaladeur\bin\Debug\BoutonBaladeur.pdb
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP3\BoutonBaladeur\BoutonBaladeur\bin\Debug\BoutonBaladeur.xml
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP3\BoutonBaladeur\BoutonBaladeur\obj\x86\Debug\WindowsApplication1.frmAnimation.resources
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP3\BoutonBaladeur\BoutonBaladeur\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP3\BoutonBaladeur\BoutonBaladeur\obj\x86\Debug\BoutonBaladeur.vbproj.GenerateResource.Cache
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP3\BoutonBaladeur\BoutonBaladeur\obj\x86\Debug\BoutonBaladeur.exe
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP3\BoutonBaladeur\BoutonBaladeur\obj\x86\Debug\BoutonBaladeur.xml
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP3\BoutonBaladeur\BoutonBaladeur\obj\x86\Debug\BoutonBaladeur.pdb
