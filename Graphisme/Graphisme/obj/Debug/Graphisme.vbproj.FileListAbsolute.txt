@@ -1,0 +1,41 @@
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\Graphisme\bin\Debug\Graphisme.exe.config
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\Graphisme\obj\Debug\Graphisme.vbprojResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\Graphisme\obj\Debug\Graphisme.frmGraphisme.resources
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\Graphisme\obj\Debug\Graphisme.Resources.resources
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\Graphisme\obj\Debug\Graphisme.vbproj.GenerateResource.Cache
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\Graphisme\obj\Debug\Graphisme.xml
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\Graphisme\bin\Debug\Graphisme.exe
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\Graphisme\bin\Debug\Graphisme.pdb
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\Graphisme\bin\Debug\Graphisme.xml
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\Graphisme\obj\Debug\Graphisme.exe
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\Graphisme\obj\Debug\Graphisme.pdb
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\bin\Debug\Graphisme.exe.config
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\obj\Debug\Graphisme.exe
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\obj\Debug\Graphisme.xml
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\obj\Debug\Graphisme.pdb
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\bin\Debug\Graphisme.exe
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\bin\Debug\Graphisme.pdb
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\bin\Debug\Graphisme.xml
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\obj\Debug\Graphisme.vbprojResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\obj\Debug\Graphisme.frmGraphisme.resources
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\obj\Debug\Graphisme.Resources.resources
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\obj\Debug\Graphisme.vbproj.GenerateResource.Cache
+D:\Informatique\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\bin\Debug\Graphisme.exe.config
+D:\Informatique\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\obj\Debug\Graphisme.exe
+D:\Informatique\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\obj\Debug\Graphisme.xml
+D:\Informatique\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\obj\Debug\Graphisme.pdb
+E:\IUT\Informatique\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\bin\Debug\Graphisme.exe.config
+E:\IUT\Informatique\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\obj\Debug\Graphisme.exe
+E:\IUT\Informatique\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\obj\Debug\Graphisme.xml
+E:\IUT\Informatique\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\obj\Debug\Graphisme.pdb
+E:\IUT\Informatique\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\bin\Debug\Graphisme.exe
+E:\IUT\Informatique\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\bin\Debug\Graphisme.pdb
+E:\IUT\Informatique\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\bin\Debug\Graphisme.xml
+E:\IUT\Informatique\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\obj\Debug\Graphisme.vbprojResolveAssemblyReference.cache
+E:\IUT\Informatique\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\obj\Debug\Graphisme.frmGraphisme.resources
+E:\IUT\Informatique\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\obj\Debug\Graphisme.Resources.resources
+E:\IUT\Informatique\Nicolas Pesso - Info - TP5\Graphisme\Graphisme\obj\Debug\Graphisme.vbproj.GenerateResource.Cache
+E:\IUT\Informatique\TP5\Graphisme\Graphisme\bin\Debug\Graphisme.exe.config
+E:\IUT\Informatique\TP5\Graphisme\Graphisme\obj\Debug\Graphisme.exe
+E:\IUT\Informatique\TP5\Graphisme\Graphisme\obj\Debug\Graphisme.xml
+E:\IUT\Informatique\TP5\Graphisme\Graphisme\obj\Debug\Graphisme.pdb
