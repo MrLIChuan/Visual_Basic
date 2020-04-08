@@ -1,0 +1,18 @@
+I:\Info\Nicolas Pesso - Info - TP3\TriTableau\TriTableau\obj\x86\Debug\WindowsApplication1.Resources.resources
+I:\Info\Nicolas Pesso - Info - TP3\TriTableau\TriTableau\obj\x86\Debug\WindowsApplication1.frmTri.resources
+I:\Info\Nicolas Pesso - Info - TP3\TriTableau\TriTableau\obj\x86\Debug\TriTableau.vbproj.GenerateResource.Cache
+I:\Info\Nicolas Pesso - Info - TP3\TriTableau\TriTableau\bin\Debug\TriTableau.exe
+I:\Info\Nicolas Pesso - Info - TP3\TriTableau\TriTableau\bin\Debug\TriTableau.pdb
+I:\Info\Nicolas Pesso - Info - TP3\TriTableau\TriTableau\bin\Debug\TriTableau.xml
+I:\Info\Nicolas Pesso - Info - TP3\TriTableau\TriTableau\obj\x86\Debug\TriTableau.exe
+I:\Info\Nicolas Pesso - Info - TP3\TriTableau\TriTableau\obj\x86\Debug\TriTableau.xml
+I:\Info\Nicolas Pesso - Info - TP3\TriTableau\TriTableau\obj\x86\Debug\TriTableau.pdb
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP3\TriTableau\TriTableau\obj\x86\Debug\TriTableau.exe
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP3\TriTableau\TriTableau\obj\x86\Debug\TriTableau.xml
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP3\TriTableau\TriTableau\obj\x86\Debug\TriTableau.pdb
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP3\TriTableau\TriTableau\bin\Debug\TriTableau.exe
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP3\TriTableau\TriTableau\bin\Debug\TriTableau.pdb
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP3\TriTableau\TriTableau\bin\Debug\TriTableau.xml
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP3\TriTableau\TriTableau\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP3\TriTableau\TriTableau\obj\x86\Debug\WindowsApplication1.frmTri.resources
+C:\Users\Lyco\Documents\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP3\TriTableau\TriTableau\obj\x86\Debug\TriTableau.vbproj.GenerateResource.Cache
