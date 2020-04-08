@@ -1,0 +1,34 @@
+c:\users\lyco\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Fonction.vbprojResolveAssemblyReference.cache
+c:\users\lyco\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmFonction.resources
+c:\users\lyco\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+c:\users\lyco\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Fonction.vbproj.GenerateResource.Cache
+c:\users\lyco\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+c:\users\lyco\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+c:\users\lyco\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\lyco\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\lyco\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\lyco\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+c:\users\lyco\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Lyco\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP4\Fonction\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Lyco\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP4\Fonction\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Lyco\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP4\Fonction\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Lyco\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP4\Fonction\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP4\Fonction\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP4\Fonction\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP4\Fonction\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP4\Fonction\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\IUT\Informatique\Nicolas Pesso - Info - TP4\Fonction\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\IUT\Informatique\Nicolas Pesso - Info - TP4\Fonction\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\IUT\Informatique\Nicolas Pesso - Info - TP4\Fonction\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\IUT\Informatique\Nicolas Pesso - Info - TP4\Fonction\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\IUT\Informatique\TP4\Fonction\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\IUT\Informatique\TP4\Fonction\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\IUT\Informatique\TP4\Fonction\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\IUT\Informatique\TP4\Fonction\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\IUT\Informatique\TP4\Fonction\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\IUT\Informatique\TP4\Fonction\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\IUT\Informatique\TP4\Fonction\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\IUT\Informatique\TP4\Fonction\WindowsApplication1\obj\Debug\Fonction.vbprojResolveAssemblyReference.cache
+E:\IUT\Informatique\TP4\Fonction\WindowsApplication1\obj\Debug\WindowsApplication1.frmFonction.resources
+E:\IUT\Informatique\TP4\Fonction\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\IUT\Informatique\TP4\Fonction\WindowsApplication1\obj\Debug\Fonction.vbproj.GenerateResource.Cache
