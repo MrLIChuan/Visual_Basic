@@ -1,0 +1,43 @@
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP5\Graphisme\Planètes\Planètes\bin\Debug\Planètes.exe.config
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP6\Planètes\Planètes\bin\Debug\Planètes.exe.config
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP6\Planètes\Planètes\obj\Debug\Planètes.vbprojResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP6\Planètes\Planètes\obj\Debug\Planètes.frmAccueil.resources
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP6\Planètes\Planètes\obj\Debug\Planètes.Resources.resources
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP6\Planètes\Planètes\obj\Debug\Planètes.vbproj.GenerateResource.Cache
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP6\Planètes\Planètes\bin\Debug\Planètes.exe
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP6\Planètes\Planètes\bin\Debug\Planètes.pdb
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP6\Planètes\Planètes\bin\Debug\Planètes.xml
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP6\Planètes\Planètes\obj\Debug\Planètes.frmSaisie.resources
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP6\Planètes\Planètes\obj\Debug\Planètes.exe
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP6\Planètes\Planètes\obj\Debug\Planètes.xml
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP6\Planètes\Planètes\obj\Debug\Planètes.pdb
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP6\Planètes\Planètes\obj\Debug\Planètes.frmResultats.resources
+C:\Users\Nico\Desktop\DUT GEII - IUT Angoulême\Informatique - Nicolas Pesso\TP\Nicolas Pesso - Info - TP6\Planètes\Planètes\obj\Debug\Planètes.frmGraph.resources
+E:\IUT\Informatique\Nicolas Pesso - Info - TP6\Planètes\Planètes\bin\Debug\Planètes.exe.config
+E:\IUT\Informatique\Nicolas Pesso - Info - TP6\Planètes\Planètes\obj\Debug\Planètes.exe
+E:\IUT\Informatique\Nicolas Pesso - Info - TP6\Planètes\Planètes\obj\Debug\Planètes.xml
+E:\IUT\Informatique\Nicolas Pesso - Info - TP6\Planètes\Planètes\obj\Debug\Planètes.pdb
+E:\IUT\Informatique\Nicolas Pesso - Info - TP6\Planètes\Planètes\bin\Debug\Planètes.exe
+E:\IUT\Informatique\Nicolas Pesso - Info - TP6\Planètes\Planètes\bin\Debug\Planètes.pdb
+E:\IUT\Informatique\Nicolas Pesso - Info - TP6\Planètes\Planètes\bin\Debug\Planètes.xml
+E:\IUT\Informatique\Nicolas Pesso - Info - TP6\Planètes\Planètes\obj\Debug\Planètes.vbprojResolveAssemblyReference.cache
+E:\IUT\Informatique\Nicolas Pesso - Info - TP6\Planètes\Planètes\obj\Debug\Planètes.frmAccueil.resources
+E:\IUT\Informatique\Nicolas Pesso - Info - TP6\Planètes\Planètes\obj\Debug\Planètes.frmGraph.resources
+E:\IUT\Informatique\Nicolas Pesso - Info - TP6\Planètes\Planètes\obj\Debug\Planètes.Resources.resources
+E:\IUT\Informatique\Nicolas Pesso - Info - TP6\Planètes\Planètes\obj\Debug\Planètes.frmResultats.resources
+E:\IUT\Informatique\Nicolas Pesso - Info - TP6\Planètes\Planètes\obj\Debug\Planètes.frmSaisie.resources
+E:\IUT\Informatique\Nicolas Pesso - Info - TP6\Planètes\Planètes\obj\Debug\Planètes.vbproj.GenerateResource.Cache
+E:\IUT\Informatique\TP6\Planètes\Planètes\bin\Debug\Planètes.exe.config
+E:\IUT\Informatique\TP6\Planètes\Planètes\obj\Debug\Planètes.exe
+E:\IUT\Informatique\TP6\Planètes\Planètes\obj\Debug\Planètes.xml
+E:\IUT\Informatique\TP6\Planètes\Planètes\obj\Debug\Planètes.pdb
+E:\IUT\Informatique\TP6\Planètes\Planètes\obj\Debug\Planètes.vbprojResolveAssemblyReference.cache
+E:\IUT\Informatique\TP6\Planètes\Planètes\obj\Debug\Planètes.frmAccueil.resources
+E:\IUT\Informatique\TP6\Planètes\Planètes\obj\Debug\Planètes.frmGraph.resources
+E:\IUT\Informatique\TP6\Planètes\Planètes\obj\Debug\Planètes.Resources.resources
+E:\IUT\Informatique\TP6\Planètes\Planètes\obj\Debug\Planètes.frmResultats.resources
+E:\IUT\Informatique\TP6\Planètes\Planètes\obj\Debug\Planètes.frmSaisie.resources
+E:\IUT\Informatique\TP6\Planètes\Planètes\obj\Debug\Planètes.vbproj.GenerateResource.Cache
+E:\IUT\Informatique\TP6\Planètes\Planètes\bin\Debug\Planètes.exe
+E:\IUT\Informatique\TP6\Planètes\Planètes\bin\Debug\Planètes.pdb
+E:\IUT\Informatique\TP6\Planètes\Planètes\bin\Debug\Planètes.xml
